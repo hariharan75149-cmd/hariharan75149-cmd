@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Hariharan.M
 
-<!--
-**hariharan75149-cmd/hariharan75149-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm a BCA graduate interested in Cybersecurity, Ethical Hacking and Security Operations Center (SOC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills I'm Learning
+
+- Network Security
+- Ethical Hacking
+- Vulnerability Assessment
+- Linux Fundamentals
+- Network Traffic Analysis
+- Security Monitoring
+
+Tools
+
+- Kali Linux
+- Nmap
+- Metasploit
+- Wireshark
+- Hydra
+- Netcat
+
+Projects
+
+Metasploitable 2 – Penetration Testing Lab
+
+"View My Project" (https://github.com/hariharan75149-cmd/Metasploitable2-Penetration-Testing)
+
+Career Goal
+
+To build a career in Cybersecurity as a SOC Analyst or Junior Penetration Tester.
+
+Connect With Me
+
+- GitHub: https://github.com/hariharan75149-cmd
+- LinkedIn: https://www.linkedin.com/in/hari-haran-m-47002b347
+
+Always learning. Always improving.
